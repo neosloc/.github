@@ -16,5 +16,6 @@ neosloc path/to/repo
 ```
 
 [Documentation](https://neosloc.github.io/neosloc/) ·
+[Archive](https://neosloc.github.io/archive/) ·
 [Repository](https://github.com/neosloc/neosloc) ·
 [PyPI](https://pypi.org/project/neosloc/)
